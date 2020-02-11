@@ -1,0 +1,5 @@
+### IntelliJ IDEA ###
+.idea/*
+venv/*
+
+src/main/proj-framework-jogo/__pycache__/*
